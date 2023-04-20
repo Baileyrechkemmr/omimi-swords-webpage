@@ -13,15 +13,20 @@
 - [Live link](#live-link)
 - [Stretch goals](#stretch-goals)
 
+
+## teck deck
+- django
+
+- postgresql
+
+- 
+
 ## Pip list
 
-- 
-
-- 
-
-- 
+- django
 
 - Install project with
+
   ```bash
     pip3 -r requirements.txt
   ```
